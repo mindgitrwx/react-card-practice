@@ -52,7 +52,7 @@ const PostCard = () => {
           classes={textCardContentStyles}
           heading={"First material ui"}
           body={
-            ""
+            "First material ui to make custom resume"
           }
         />
       </CardContent>
